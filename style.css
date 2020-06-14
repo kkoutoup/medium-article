@@ -22,6 +22,7 @@ body{
 .banner h1{
   font-family: 'Montserrat', sans-serif;
   font-size: 2em;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.8);
 }
 
 .banner .container{
